@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "airnz"
+  site-url: "https://weiyunnaopenai.github.io/airnz"
+  description: "this is the repo for airnz onsite enablement"
+  repo-branch: main
+  repo-url: "https://github.com/weiyunnaopenai/airnz"
